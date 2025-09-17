@@ -43,6 +43,4 @@ public class ProductController {
 		}
 	}
 	
-//	@PutMapping("/product/edit/{id}")
-//	public Product editProduct(@PathVariable)
 }
